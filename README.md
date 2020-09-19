@@ -9,7 +9,5 @@ Este proyecto es para que te familiarices con la paltaforma y la forma en como d
 Imprime en la consola:
 
 ```
-<code>
 Hola Mundo!
-</code>
 ```
