@@ -2,6 +2,14 @@
 
 Este proyecto es para que te familiarices con la paltaforma y la forma en como debes entregar las tareas.
 
-### Instrucciones
+---
 
-Imprime en la consola 'Hola Mundo!'
+## Instrucciones
+
+Imprime en la consola:
+
+```
+<code>
+Hola Mundo!
+</code>
+```
